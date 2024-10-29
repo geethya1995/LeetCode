@@ -3,6 +3,12 @@ package Top_Interview_150.Java;
 public class Main {
     public static void main(String[] args) {
 
+        // Rotate_Array
+        int[] nums1 = {1,2,3,4,5,6,7};
+        int[] nums2 = {-1,-100,3,99};
+        Rotate_Array result = new Rotate_Array();
+        result.rotate(nums1, 0);
+
         /* For testing purposes:
         // Majority_ELement
         int[] nums1 = {3,3,3,4,2,2,3,4,3,6,3};

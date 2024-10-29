@@ -13,7 +13,7 @@ function majorityElement(nums: number[]): number{
         }
     }
     
-    console.log(majorityElement);
+    // console.log(majorityElement);
     return majorityElement;
 };
 
